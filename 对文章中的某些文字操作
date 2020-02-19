@@ -1,0 +1,2 @@
+需要对某一段落的文字操作可以使用<span>标签，
+如：<p>this is a <span style='font-size:18px'>new</span> file </p>
