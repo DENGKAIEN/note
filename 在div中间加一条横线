@@ -1,0 +1,5 @@
+在一个div中间加一条横线
+
+1.使用<hr>标签
+2.设置一个div,<div style="border:1px solid #CCC"></div>
+3.使用border-bottom属性<div style="border-bottom:1px solid #CCC">a</div>  
